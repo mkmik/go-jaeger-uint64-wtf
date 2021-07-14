@@ -17,3 +17,6 @@ It doesn't seem to be just a simple `uint64` -> `float64` -> `uint64` conversion
 since that would be `4326785824919570944`, but it's close.
 
 See https://play.golang.org/p/YdsUf5DjGy2
+
+
+TODO: file a proper bug report
